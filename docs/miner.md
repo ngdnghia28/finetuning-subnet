@@ -25,7 +25,7 @@ Make sure that any repo you create for uploading is public so that the validator
 2. Clone the repo
 
 ```shell
-git clone https://github.com/NousResearch/finetuning-subnet.git
+git clone https://github.com/ngdnghia28/finetuning-subnet.git
 ```
 
 3. Setup your python [virtual environment](https://docs.python.org/3/library/venv.html) or [Conda environment](https://conda.io/projects/conda/en/latest/user-guide/tasks/manage-environments.html#creating-an-environment-with-commands).
